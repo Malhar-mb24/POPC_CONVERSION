@@ -17,6 +17,7 @@ void decimalToBinary(int decimal, char* binary) {
     binary[i] = '\0';
     myStrRev(binary);
 }
+//some change 
 
 // Function to convert binary to decimal
 int binaryToDecimal(const char* binary) {
